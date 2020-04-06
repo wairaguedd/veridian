@@ -9,29 +9,9 @@
 	background-color: #C8C8C8;
 }
 
-.display-3 {
-font-family: 'Alfa Slab One', cursive;
-font-size: 100px;
-}
 
-nav a {
-	font-family: 'Abril Fatface', cursive;
-}
-
-.lead {
-	font-family: 'Graduate', cursive;
-}
-
-h3 {
-
-	font-family: 'Abril Fatface', cursive;
-}
-
- div p {
-
-	font-family: 'Roboto Slab', serif;
-	font-size: 20px;
-	box-shadow: transparent;
+body {
+	font-family: Helvetica, Arial, sans-serif;
 }
 
 #icons {
